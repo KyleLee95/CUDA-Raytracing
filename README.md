@@ -1,4 +1,8 @@
-# Project 3: Raytracing
+# Cuda Raytracing Implementation
+
+**Note**
+This project was completed as part of the final project requirements for [MPCS
+52072 GPU Programming](https://mpcs-courses.cs.uchicago.edu/2024-25/summer/courses/mpcs-52072-1).
 
 ![example output](example_output.png)
 
